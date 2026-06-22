@@ -2,6 +2,8 @@
   "name": "amani-s-cleaners",
   "version": "1.0.0",
   "private": true,
+  "main": "index.js",
+  "expo": "./app.json",
   "scripts": {
     "web": "vite",
     "build:web": "vite build"

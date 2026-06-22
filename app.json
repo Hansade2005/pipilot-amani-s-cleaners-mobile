@@ -10,6 +10,12 @@
     "ios": {
       "bundleIdentifier": "com.pipilot.amaniscleaners"
     },
-    "icon": "https://amanicleaners.com/logo.png"
+    "icon": "https://amanicleaners.com/logo.png",
+    "extra": {
+      "eas": {
+        "projectId": "878f3144-2f5b-494b-9ac2-98d4ae13e0f5"
+      }
+    },
+    "owner": "hansade"
   }
 }

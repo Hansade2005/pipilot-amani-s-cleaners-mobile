@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Amani's  Cleaners",
+    "slug": "amani-s-cleaners",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.pipilot.amaniscleaners"
+    },
+    "ios": {
+      "bundleIdentifier": "com.pipilot.amaniscleaners"
+    },
+    "icon": "https://amanicleaners.com/logo.png"
+  }
+}
